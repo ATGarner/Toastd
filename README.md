@@ -1,4 +1,4 @@
-# Toastd
+# The Toaster of Things
 An Android app to facilitate bluetooth communication between Android devices.
 
 Andrew Garner, June 30, 2015
